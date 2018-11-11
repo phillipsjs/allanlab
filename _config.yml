@@ -10,7 +10,7 @@ title: Phillab
 email: Jonathan.S.Phillips@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website for the Phillips Lab at Dartmouth College.
-baseurl: ""
+baseurl: /phillab
 url: ""
 
 include:
